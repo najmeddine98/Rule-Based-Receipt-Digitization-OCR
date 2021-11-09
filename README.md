@@ -1,0 +1,1 @@
+# Rule-Based-Receipt-Digitization-with-OCR-Automating
